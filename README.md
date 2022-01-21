@@ -1,4 +1,4 @@
-# Prediction-of-Grocery-Store-Sales
+# Prediction of Grocery Store Sales
 
 This project is completed in October 2021.
 The notebook can be summarized as follows :
